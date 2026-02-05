@@ -84,6 +84,7 @@ Internal normalization for analysis
 Simple English output for business users
 
 🏗️ System Architecture
+
 contract-risk-bot/
 │
 ├── app.py                      # Streamlit UI
@@ -105,6 +106,8 @@ contract-risk-bot/
 │   └── logs/                   # JSON audit trails
 │
 └── demo_contracts/
+
+
 
 🖥️ Live Demo
 
