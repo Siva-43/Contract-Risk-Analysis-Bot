@@ -153,31 +153,22 @@ LLM: Optional (designed to work without paid APIs)
 
 🔐 Privacy & Confidentiality
 
-No contracts are sent to external legal databases
+  - No contracts are sent to external legal databases
 
-No case laws or statutes APIs used
+  - No case laws or statutes APIs used
 
-All processing happens locally or within the deployed instance
+  - All processing happens locally or within the deployed instance
 
-Optional audit logs for traceability
+  - Optional audit logs for traceability
 
 📈 Future Enhancements
 
-Advanced clause similarity using embeddings
+   1. Advanced clause similarity using embeddings
 
-Editable contract templates
+   2. Editable contract templates
 
-Role-specific risk views (Founder / HR / Legal)
+   3. Role-specific risk views (Founder / HR / Legal)
 
-Multi-language UI support
+   4. Multi-language UI support
 
-Optional GenAI explanations using Claude / GPT-4
-
-🏁 Hackathon Alignment
-
-✔ Matches selected problem statement
-✔ Uses allowed tooling stack
-✔ No external legal data
-✔ SME-focused
-✔ Publicly accessible deployment
-✔ Explainable & demo-ready
+   5. Optional GenAI explanations using Claude / GPT-4
