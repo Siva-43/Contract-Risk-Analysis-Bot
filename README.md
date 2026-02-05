@@ -86,25 +86,45 @@ Simple English output for business users
 🏗️ System Architecture
 
 contract-risk-bot/
+
 │
+
 ├── app.py                      # Streamlit UI
+
 ├── nlp/                        # Text processing & NLP
+
 │   ├── clause_splitter.py
+
 │   ├── classifier.py
+
 │   ├── ner.py
+
 │
+
 ├── risk/                       # Legal risk logic
+
 │   ├── rules.py
+
 │   ├── scorer.py
+
 │
+
 ├── llm/                        # Prompt design (optional extension)
+
 │
+
 ├── utils/                      # Language handling, audit logs
+
 │
+
 ├── data/
+
 │   ├── templates/              # Standard SME contracts
+
 │   └── logs/                   # JSON audit trails
+
 │
+
 └── demo_contracts/
 
 
