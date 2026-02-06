@@ -132,10 +132,7 @@ contract-risk-bot/
 🖥️ Live Demo
 
 🔗 Live Application:
-👉 (Add your Streamlit URL here)
-
-📽️ Demo Video:
-👉 (Add YouTube / Drive link here)
+👉 https://contract-risk-analysis-bot-demo.streamlit.app/
 
 ⚙️ Tech Stack
 
